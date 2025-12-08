@@ -320,6 +320,8 @@
     		cout << "===========[ Game Over! ]==========" << endl;
     	else if (MonsterHP == 0)
     		cout << "===========[ Game Clear! ]==========" << endl;
-    
+
+        system("pause");
+        
     	return 0;
     }
